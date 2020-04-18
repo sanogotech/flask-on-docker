@@ -1,5 +1,6 @@
 # Dockerizing Flask with Postgres, Gunicorn, and Nginx
-
+Doc:
+https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx/
 ## Want to learn how to build this?
 
 Check out the [post](https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx).
